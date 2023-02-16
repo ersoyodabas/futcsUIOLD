@@ -1,0 +1,17 @@
+.capsul{ 
+    padding: 50px;
+    margin: auto;
+    border: 2px solid black;
+    background-color: rgb(231, 231, 231);
+    border-radius: 30px;
+}
+.user-table{
+    border: 1px solid black;
+    width: 350px;
+    height: 200px;
+}
+.rounded1{
+    margin-left: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
